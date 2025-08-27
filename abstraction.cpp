@@ -9,7 +9,7 @@ class Shape{ //abstract class
 class Circle : public Shape{
 public:
     void draw(){
-        cout<<"drawing a circle\n";
+        cout<<"drawing a round circle\n";
     }
 };
 
